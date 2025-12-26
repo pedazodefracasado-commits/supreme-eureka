@@ -1,0 +1,5 @@
+#Changed WoolyCow SpawnRate. [0 ~ 100]
+#Range: 0 ~ 100
+"Wooly cow SpawnRate" = 10
+"Umbra Cow SpawnRate" = 10
+
